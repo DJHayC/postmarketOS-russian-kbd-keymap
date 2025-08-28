@@ -1,1 +1,1 @@
-# postmarketOS-russian-kbd-keymap
+# postmarketOS-russian-rx51-keymap
